@@ -1,0 +1,30 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/suit@v1.0.6/packages/suit-variable/dist/suit-variable.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@300;400&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'SUIT Variable', Suit, sans-serif;
+  background-color: #f0f0f0;
+  color: rgb(2, 8, 23);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  max-width: 448px;
+  margin: 0 auto;
+  background: #fff;
+  overflow: hidden;
+  font-size: 0.95em;
+  word-break: keep-all;
+}
+
+button {
+  cursor: pointer;
+  font-family: 'SUIT Variable', Suit, sans-serif;
+}
