@@ -45,7 +45,7 @@ export default function Info() {
             </svg>
             <span className="loc-transport-label">주차</span>
           </div>
-          <p className="loc-transport-text">무지개운수 기사님들 주차 무료</p>
+          <p className="loc-transport-text">무료</p>
         </div>
 
       </div>
